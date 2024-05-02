@@ -10,7 +10,7 @@ namespace BugGuardian.MVC.TestWebApp.Controllers
     {
         public ActionResult Index()
         {
-            var x = int.Parse("error");
+            //var x = int.Parse("error");
             return View();
         }
 
